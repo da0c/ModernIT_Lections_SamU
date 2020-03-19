@@ -5,7 +5,7 @@
 
 Здесь будут собраны материалы по курсу.
 
-**0. Инструменты удаленной работы.***
+**0. Инструменты удаленной работы.**
 
 Хорошая подборка от reg.ru.
 https://vc.ru/u/450917-reg-ru/113008-na-karantin-instrumenty-dlya-udalennoy-raboty-kotorymi-polzuyutsya-v-reg-ru
