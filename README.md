@@ -35,7 +35,7 @@ https://billf.mit.edu/sites/default/files/documents/cvprPapers.pdf
 https://zoom.us/s/8366671872
 
 
-Всех кто не знаком, рекомендую заранее освоить...
+Всех кто не знаком, рекомендую заранее освоить Zoom...
 
 
 **Stay tuned...**
