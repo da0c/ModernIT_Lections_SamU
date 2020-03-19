@@ -21,6 +21,10 @@ http://karpathy.github.io/2016/09/07/phd/
 https://billf.mit.edu/sites/default/files/documents/cvprPapers.pdf
 
 
+
+** ЛЕКЦИИ **
+
+
 20.03.2020 в 18:45 лекция в Zoom - 
 https://zoom.us/s/8366671872
 
