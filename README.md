@@ -22,7 +22,7 @@ https://billf.mit.edu/sites/default/files/documents/cvprPapers.pdf
 
 
 
-** ЛЕКЦИИ **
+**ЛЕКЦИИ **
 
 
 20.03.2020 в 18:45 лекция в Zoom - 
