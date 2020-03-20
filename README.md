@@ -25,6 +25,22 @@ http://karpathy.github.io/2016/09/07/phd/
 https://billf.mit.edu/sites/default/files/documents/cvprPapers.pdf
 
 
+**3. Основные тренды в современных ИТ.**
+
+1. CPU-многопоточность на десктопе
+
+2. GPU-многопоточность
+
+3. Широкополосный доступ в интернет и облака
+
+4. Глубокое обучение
+
+
+**4. Искусственный интеллект.**
+
+Презентация по глубокому обучению
+
+https://1drv.ms/p/s!ArzyYnrS67k1kMYCMGaujkdVms_KSQ
 
 
 
